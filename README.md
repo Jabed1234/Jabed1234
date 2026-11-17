@@ -2,7 +2,7 @@
 
 Computer science graduate from Fordham University (B.S. 2026, minor in Cybersecurity), based in New York.
 
-I work in AI model evaluation, reviewing AI-generated code against real codebases. I'm interested in roles in AI evaluation and quality, security, and data analysis.
+I work as an AI evaluator. I'm interested in roles in AI evaluation and quality, security, and data analysis.
 
 ## Projects
 
